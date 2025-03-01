@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/87a26f7c-7a8c-4408-a1b6-6a5c38f35b99)
 # 프로그램의 SQL 고득점 Kit 문제풀이 ✨
 이 저장소는 프로그래머스 SQL 고득점 Kit을 복습하는 과정에서 풀었던 문제들을 정리한 것입니다. 📚
 문제 풀이를 통해 SQL 실력을 다지고, 고득점 도전도 함께 하는 목표로 진행하였습니다. 🎯
